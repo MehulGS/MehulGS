@@ -49,11 +49,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
@@ -67,6 +62,9 @@
 </a>
 <a href="https://www.linkedin.com/in/gupta-mehul-30855a291/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  <a href="https://mehul-gupta.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%2328A745.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
