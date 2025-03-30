@@ -4,18 +4,18 @@
 
 ---
 
-<h2 align="center">🚀 Hey, I'm <span style="color:#FFA500;">Mehul Gupta</span>, a Full-Stack Developer 👨‍💻</h2>
-
-<p align="center">💻 Passionate about MERN stack development | 🔥 Exploring advanced React & backend integrations | 🛠️ Always learning!</p>
+<h1 align="center" style="color:#FFA500; font-size: 2.5rem;">🚀 Hey, I'm <span style="color:#FF4500;">Mehul Gupta</span></h1>
+<h3 align="center">A Passionate Full-Stack Developer 👨‍💻 | MERN Enthusiast | Tech Explorer 🚀</h3>
+<p align="center" style="font-size: 1.2rem; color:#666;">💻 Building dynamic web applications | 🔥 Mastering React & Node.js | 🛠️ Problem Solver</p>
 
 ---
 
-<h2 align="center">✨ My Skill Set</h2>
+<h2 align="center" style="color:#20B2AA;">✨ My Skill Set</h2>
 
-<table align="center" width="80%" border="0" cellspacing="10" cellpadding="10" style="margin: auto; text-align: center;">
+<table align="center" width="80%" border="0" cellspacing="10" cellpadding="10" style="margin: auto; text-align: center; background: #f8f9fa; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <tr>
     <td valign="top" width="50%">
-      <h3>Frontend</h3>
+      <h3 style="color:#007bff;">Frontend</h3>
       <p>
         <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
         <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
@@ -26,7 +26,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>Backend</h3>
+      <h3 style="color:#28a745;">Backend</h3>
       <p>
         <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
@@ -40,7 +40,7 @@
 
 ---
 
-<h2 align="center">📬 Connect with Me</h2>
+<h2 align="center" style="color:#FF4500;">📬 Connect with Me</h2>
 
 <div align="center">
   <a href="https://github.com/MehulGS?tab=repositories" target="_blank">
