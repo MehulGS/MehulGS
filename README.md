@@ -29,7 +29,7 @@
       <h3 style="color:#28a745;">Backend</h3>
       <p>
         <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original.svg" alt="Express.js" height="50" style="filter: invert(1);" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
         <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
