@@ -26,12 +26,113 @@
 
 ---
 
-## Tech Stack
+## 🧠 AI Skills Dashboard
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,typescript,javascript,html,css,tailwind,bootstrap,firebase,git,github,postman,vscode" alt="Tech stack icons" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&color=00FFCC&center=true&vCenter=true&width=600&lines=Initializing+Skill+Matrix...;Loading+Tech+Stack...;AI+System+Ready" />
 </p>
 
+---
+
+### 🟢 FRONTEND SYSTEM
+
+<p align="center">
+  
+`HTML` `CSS` `JavaScript` `TypeScript`  
+`React.js` `Next.js` `Redux` `Vite`  
+`Tailwind CSS` `Bootstrap` `Three.js`  
+`GSAP` `Framer Motion`
+
+</p>
+
+---
+
+### 🔵 BACKEND CORE
+
+<p align="center">
+
+`Node.js` `Express.js` `NestJS`  
+`GraphQL` `REST APIs` `FastAPI`  
+`Socket.IO`
+
+</p>
+
+---
+
+### 🟣 DATABASE MATRIX
+
+<p align="center">
+
+`MongoDB` `Redis` `Neo4j` `Prisma`
+
+</p>
+
+---
+
+### 🟠 CLOUD & DEPLOYMENT
+
+<p align="center">
+
+`AWS` `Google Cloud` `Docker`  
+`Kubernetes` `Vercel` `Netlify` `Render`
+
+</p>
+
+---
+
+### 🔴 TOOLS & WORKFLOW
+
+<p align="center">
+
+`Git` `GitHub` `GitLab`  
+`Postman` `Firebase` `Kafka`  
+`Stripe` `Android Studio`
+
+</p>
+
+---
+
+### 🟡 DESIGN & VISUAL ENGINE
+
+<p align="center">
+
+`Figma` `Chart.js` `D3.js`
+
+</p>
+
+---
+
+### ⚫ AI & DATA MODULE
+
+<p align="center">
+
+`Hugging Face` `Kaggle`
+
+</p>
+
+---
+
+### ⚙️ SYSTEM UTILITIES
+
+<p align="center">
+
+`Babel` `ESLint` `Prettier`  
+`PostCSS` `YAML` `n8n`  
+`Lucide` `Material UI`
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ffcc&height=2&section=footer"/>
+</p>
+
+<p align="center">
+  <b>STATUS:</b> <span style="color:#00ffcc">ACTIVE • BUILDING • SCALING 🚀</span>
+</p>
+
+---
 ---
 
 ## Featured Projects
