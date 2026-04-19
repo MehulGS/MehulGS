@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
 </p>
+
 # 💫 About Me:
 🔭 Currently working at **AUM Industries**<br>👯 Open to collaborating on **MERN Stack projects, SaaS products, and scalable web apps**<br>🤝 Looking for help with **advanced system design & scaling production applications**<br>🌱 Currently learning **DevOps, Cloud (AWS), and system architecture**<br>💬 Ask me about **React, Node.js, MongoDB, REST APIs, and real-world project building**<br>⚡ Fun fact: **I turn ideas into fully working products faster than expected 🚀**
 
