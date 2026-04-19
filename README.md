@@ -32,32 +32,52 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&color=00FFCC&center=true&vCenter=true&width=650&lines=Booting+JARVIS+AI...;Analyzing+Developer+Profile...;System+Linked+Successfully" />
 </p>
 
-╔══════════════════════════════════════════════════════════════╗
-║ 🤖 JARVIS TERMINAL                                          ║
-╠══════════════════════════════════════════════════════════════╣
-║ > Initializing Mehul Gupta Profile...                       ║
-║ ✔ Identity Verified                                         ║
-║ ✔ Role: Full Stack Engineer                                 ║
-║ ✔ Stack: MERN + Scalable Systems                            ║
-║ ✔ Experience: 2+ Years                                      ║
-║                                                            ║
-║ > Running Capability Scan...                                ║
-║ ✔ Frontend Systems        [██████████] 100%                 ║
-║ ✔ Backend Architecture    [█████████░] 95%                  ║
-║ ✔ Database Engineering    [█████████░] 92%                  ║
-║ ✔ DevOps & Deployment     [████████░░] 85%                  ║
-║                                                            ║
-║ > AI Recommendation Engine:                                 ║
-║ → Suitable for: Startups / SaaS / Scale Products            ║
-║ → Strength: Clean Code + Fast Execution                     ║
-║                                                            ║
-║ > Status: 🟢 AVAILABLE FOR HIRE                             ║
-║                                                            ║
-║ > Command: hire(mehul)                                      ║
-╚══════════════════════════════════════════════════════════════╝
 ---
 
-## 🧠 AI INSIGHT
+### 🧾 Profile Scan
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-Verified-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge" />
+</p>
+
+---
+
+### ⚙️ Capability Matrix
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-100%25-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-95%25-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-92%25-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-85%25-00ffcc?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 AI Recommendation
+
+<p align="center">
+
+🚀 Suitable for: **Startups / SaaS / Scalable Products**  
+⚡ Strength: **Clean Code + Fast Execution**
+
+</p>
+
+---
+
+### 🟢 Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-00ffcc?style=for-the-badge" />
+</p>
+
+---
+
+### 💻 Command
+
+
+hire(mehul)## 🧠 AI INSIGHT
 
 <p align="center">
 "This developer demonstrates strong real-world execution ability, clean architecture thinking, and rapid delivery capability."
