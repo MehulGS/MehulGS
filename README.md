@@ -64,35 +64,6 @@
 
 ---
 
-## JARVIS AI Assistant
-
-
-> initializing AI assistant...
-> loading context...
-> ready
-
-
-**User:** Who are you?  
-**JARVIS:** I am Mehul's AI assistant. He is a Full Stack Engineer specializing in scalable MERN applications.
-
-**User:** What can Mehul build?  
-**JARVIS:** Full-stack web applications, real-time systems, admin dashboards, e-commerce platforms, and scalable REST APIs.
-
-**User:** Why should we hire Mehul?  
-**JARVIS:** Because he builds production-ready systems with performance, scalability, and real business impact in mind.
-
-**User:** Current status?  
-**JARVIS:** Available for freelance work, collaborations, and exciting product builds.
-
-**User:** How to contact?  
-**JARVIS:**  
-Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)  
-Portfolio: [mehul-gupta.vercel.app](https://mehul-gupta.vercel.app)  
-LinkedIn: [mehulguptaji](https://www.linkedin.com/in/mehulguptaji/)
-
-const decision = "HIRE_MEHUL 🚀";
----
-
 ## Hire Me
 
 <p align="center">
