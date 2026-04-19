@@ -26,40 +26,78 @@
 
 ---
 ---
-
-## 🚀 Languages & Tools
-
-<p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=12&i=html,css3,javascript,typescript,bootstrap,mongodb,expressjs,nodejs,reactjs,redux,vite,nextjs,vercel,threejs,render,gatsby,netlify,tailwindcss,babel,gsap,nestjs,jest,graphql,prisma,d3js,chartjs,figma,framer,postman,redis,firebase,github,gitlab,git,docker,kubernetes,amazonwebservices,googlecloud,socketio,fastapi,androidstudio,eslint,heroui,huggingface,kaggle,kafka,stripe,lucide,materialui,motion,n8n,neo4j,prettier,postcss,yaml" />
-</p>
+## 🤖 JARVIS AI ASSISTANT
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&color=00FFCC&center=true&vCenter=true&width=650&lines=Booting+JARVIS+AI...;Analyzing+Developer+Profile...;System+Linked+Successfully" />
+</p>
 
-💻 **Frontend**  
-HTML • CSS • JavaScript • TypeScript • React.js • Next.js • Redux • Vite • Tailwind CSS • Bootstrap • Three.js • GSAP • Framer Motion  
+---
 
-⚙️ **Backend & APIs**  
-Node.js • Express.js • NestJS • GraphQL • REST APIs • FastAPI • Socket.IO  
+<div align="center">
 
-🗄️ **Databases**  
-MongoDB • Redis • Neo4j • Prisma  
 
-☁️ **Cloud & DevOps**  
-AWS • Google Cloud • Docker • Kubernetes • Vercel • Netlify • Render  
+╔══════════════════════════════════════════════════════════════╗
+║ 🤖 JARVIS TERMINAL ║
+╠══════════════════════════════════════════════════════════════╣
+║ > Initializing Mehul Gupta Profile... ║
+║ ✔ Identity Verified ║
+║ ✔ Role: Full Stack Engineer ║
+║ ✔ Stack: MERN + Scalable Systems ║
+║ ✔ Experience: 2+ Years ║
+║ ║
+║ > Running Capability Scan... ║
+║ ✔ Frontend Systems [██████████] 100% ║
+║ ✔ Backend Architecture [█████████░] 95% ║
+║ ✔ Database Engineering [█████████░] 92% ║
+║ ✔ DevOps & Deployment [████████░░] 85% ║
+║ ║
+║ > AI Recommendation Engine: ║
+║ → Suitable for: Startups / SaaS / Scale Products ║
+║ → Strength: Clean Code + Fast Execution ║
+║ ║
+║ > Status: 🟢 AVAILABLE FOR HIRE ║
+║ ║
+║ > Command: hire(mehul) ║
+╚══════════════════════════════════════════════════════════════╝
 
-🧪 **Tools & Platforms**  
-Git • GitHub • GitLab • Postman • Firebase • Android Studio • Kafka • Stripe  
 
-🎨 **Design & Visualization**  
-Figma • Chart.js • D3.js  
+</div>
 
-🧠 **AI & Data**  
-Hugging Face • Kaggle  
+---
 
-🛠️ **Others**  
-Babel • ESLint • Prettier • PostCSS • YAML • n8n • Lucide Icons • Material UI  
+## 🧠 AI INSIGHT
+
+<p align="center">
+
+> "This developer demonstrates strong real-world execution ability,  
+> clean architecture thinking, and rapid delivery capability."
 
 </p>
+
+---
+
+## ⚡ QUICK ACTION PANEL
+
+<p align="center">
+  <a href="mailto:mehulguptap18@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Initiate%20Contact-00ffcc?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehulguptaji/">
+    <img src="https://img.shields.io/badge/🔗%20View%20LinkedIn-00ffcc?style=for-the-badge" />
+  </a>
+  <a href="https://mehul-gupta.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-00ffcc?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0f2027&height=120&section=footer"/>
+</p>
+
+---
 
 ---
 <p align="center">
