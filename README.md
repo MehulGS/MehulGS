@@ -90,8 +90,7 @@ Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)
 Portfolio: [mehul-gupta.vercel.app](https://mehul-gupta.vercel.app)  
 LinkedIn: [mehulguptaji](https://www.linkedin.com/in/mehulguptaji/)
 
-const verdict = "HIRE_MEHUL";
-
+const decision = "HIRE_MEHUL 🚀";
 ---
 
 ## Hire Me
