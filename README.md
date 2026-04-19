@@ -12,16 +12,10 @@
 ![](https://streak-stats.demolab.com/?user=MehulGS&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MehulGS&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MehulGS&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=MehulGS&icon=2&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/mehulguptaji) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/mehulgupta13) 
 
   
