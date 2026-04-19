@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge" alt="Experience badge" />
-  <img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge" alt="Projects badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=for-the-badge" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=for-the-badge" />
 </p>
 
 ---
@@ -25,42 +25,38 @@
 </p>
 
 ---
----
+
 ## 🤖 JARVIS AI ASSISTANT
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&color=00FFCC&center=true&vCenter=true&width=650&lines=Booting+JARVIS+AI...;Analyzing+Developer+Profile...;System+Linked+Successfully" />
 </p>
 
----
-
 <div align="center">
 
-
 ╔══════════════════════════════════════════════════════════════╗
-║ 🤖 JARVIS TERMINAL ║
+║ 🤖 JARVIS TERMINAL                                          ║
 ╠══════════════════════════════════════════════════════════════╣
-║ > Initializing Mehul Gupta Profile... ║
-║ ✔ Identity Verified ║
-║ ✔ Role: Full Stack Engineer ║
-║ ✔ Stack: MERN + Scalable Systems ║
-║ ✔ Experience: 2+ Years ║
-║ ║
-║ > Running Capability Scan... ║
-║ ✔ Frontend Systems [██████████] 100% ║
-║ ✔ Backend Architecture [█████████░] 95% ║
-║ ✔ Database Engineering [█████████░] 92% ║
-║ ✔ DevOps & Deployment [████████░░] 85% ║
-║ ║
-║ > AI Recommendation Engine: ║
-║ → Suitable for: Startups / SaaS / Scale Products ║
-║ → Strength: Clean Code + Fast Execution ║
-║ ║
-║ > Status: 🟢 AVAILABLE FOR HIRE ║
-║ ║
-║ > Command: hire(mehul) ║
+║ > Initializing Mehul Gupta Profile...                       ║
+║ ✔ Identity Verified                                         ║
+║ ✔ Role: Full Stack Engineer                                ║
+║ ✔ Stack: MERN + Scalable Systems                           ║
+║ ✔ Experience: 2+ Years                                     ║
+║                                                            ║
+║ > Running Capability Scan...                               ║
+║ ✔ Frontend Systems [██████████] 100%                       ║
+║ ✔ Backend Architecture [█████████░] 95%                    ║
+║ ✔ Database Engineering [█████████░] 92%                    ║
+║ ✔ DevOps & Deployment [████████░░] 85%                     ║
+║                                                            ║
+║ > AI Recommendation Engine:                                ║
+║ → Suitable for: Startups / SaaS / Scale Products           ║
+║ → Strength: Clean Code + Fast Execution                    ║
+║                                                            ║
+║ > Status: 🟢 AVAILABLE FOR HIRE                            ║
+║                                                            ║
+║ > Command: hire(mehul)                                    ║
 ╚══════════════════════════════════════════════════════════════╝
-
 
 </div>
 
@@ -69,10 +65,7 @@
 ## 🧠 AI INSIGHT
 
 <p align="center">
-
-> "This developer demonstrates strong real-world execution ability,  
-> clean architecture thinking, and rapid delivery capability."
-
+"This developer demonstrates strong real-world execution ability, clean architecture thinking, and rapid delivery capability."
 </p>
 
 ---
@@ -93,80 +86,62 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0f2027&height=120&section=footer"/>
-</p>
-
----
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ffcc&height=2&section=footer"/>
-</p>
-
-<p align="center">
-  <b>STATUS:</b> <span style="color:#00ffcc">ACTIVE • BUILDING • SCALING 🚀</span>
-</p>
-
----
----
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/MehulGS/TMP_PracticalTest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight" alt="TMP Practical Test" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight" />
   </a>
   <a href="https://github.com/MehulGS/netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight" alt="Netflix Clone" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## Hire Me
+## 💼 Hire Me
 
 <p align="center">
   Looking for a developer who can build reliable, scalable products with clean execution?<br/>
-  Let us build something impactful together.
+  Let’s build something impactful together.
 </p>
 
 <p align="center">
   <a href="mailto:mehulguptap18@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Let%27s%20Connect-00ffcc?style=for-the-badge&logo=gmail" alt="Hire me badge" />
+    <img src="https://img.shields.io/badge/Hire%20Me-Let%27s%20Connect-00ffcc?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehulguptaji/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://mehul-gupta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Impact.;Stay+Different" alt="Closing line" />
+  <img src="https://readme-typing-svg.demolab.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Impact.;Stay+Different" />
 </p>
