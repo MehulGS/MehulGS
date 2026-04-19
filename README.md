@@ -1,7 +1,17 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" width="30" />, I'm Mehul Gupta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00ffcc&height=220&section=header&text=MEHUL%20GUPTA&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&color=00FFCC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+%7C+Fast+Execution" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Projects-30%2B-00ffcc?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-00ffcc?style=flat-square"/>
+</p>
+
 
 # 💫 About Me:
 🔭 Currently working at **AUM Industries**<br>👯 Open to collaborating on **MERN Stack projects, SaaS products, and scalable web apps**<br>🤝 Looking for help with **advanced system design & scaling production applications**<br>🌱 Currently learning **DevOps, Cloud (AWS), and system architecture**<br>💬 Ask me about **React, Node.js, MongoDB, REST APIs, and real-world project building**<br>⚡ Fun fact: **I turn ideas into fully working products faster than expected 🚀**
