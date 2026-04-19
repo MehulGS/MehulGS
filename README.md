@@ -1,56 +1,57 @@
-
-<!-- ================== JARVIS HEADER ================== -->
+<!-- ================== ANIMATED GRADIENT HEADER ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ffcc&height=250&section=header&text=JARVIS%20MODE%20:%20MEHUL&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:2c5364,100:00ffcc&height=260&section=header&text=MEHUL%20GUPTA&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Initializing+JARVIS...;Developer+Profile+Loaded;Full+Stack+Engineer+Detected;Deploying+Scalable+Systems;Welcome+to+My+Universe+🚀"/>
-</p>
-
----
-
-## 🧠 JARVIS DASHBOARD
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clients-500%2B-00ffcc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Products;Turning+Ideas+Into+Reality+🚀" />
 </p>
 
 ---
 
-## ⚡ SYSTEM STATUS
+<!-- ================== GLASS DASHBOARD ================== -->
 
-```bash
-> user: Mehul Gupta
-> role: Full Stack Engineer
-> mode: JARVIS ACTIVE
-> focus: Scalable Applications
-> uptime: Consistent 🚀
-````
+<h2 align="center">🧠 Developer Dashboard</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Clients-500%2B-00ffcc?style=for-the-badge"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎯 FEATURED PROJECTS
+<!-- ================== GLASS ABOUT ================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-
-<a href="https://github.com/MehulGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=vision-friendly-dark"/>
-</a>
-
-<a href="https://github.com/MehulGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=vision-friendly-dark"/>
-</a>
-
+💻 Full Stack Developer (MERN) with 2+ years experience <br/>
+🚀 I build scalable, high-performance web applications <br/>
+🧠 Focused on clean code, performance & real-world impact <br/>
+🤝 Open for freelance, collaboration & startup ideas
 </p>
 
 ---
 
-## ⚔️ TECH UNIVERSE
+<!-- ================== TECH GRID ================== -->
+
+<h2 align="center">⚔️ Tech Universe</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,typescript,js,html,css,tailwind,bootstrap,firebase,git,github,postman,vscode" />
@@ -58,16 +59,35 @@
 
 ---
 
-## 📊 LIVE ANALYTICS
+<!-- ================== FEATURED PROJECTS ================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=vision-friendly-dark&hide_border=true"/>
+  <a href="https://github.com/MehulGS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/MehulGS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
 
-## 🐍 SYSTEM ACTIVITY
+<!-- ================== STATS ================== -->
+
+<h2 align="center">📊 Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================== SNAKE ================== -->
+
+<h2 align="center">🐍 Contribution Flow</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -75,47 +95,39 @@
 
 ---
 
-## 💼 HIRE ME
+<!-- ================== HIRE ME ================== -->
+
+<h2 align="center">💼 Hire Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Fulltime-00ffcc?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  💡 Need a developer who can build real-world scalable apps?  
-  🚀 Let’s turn your idea into a product.
+🚀 Looking for a developer who delivers real results? <br/>
+Let’s build something powerful together.
 </p>
 
 <p align="center">
   <a href="mailto:mehulguptap18@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-00ffcc?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Connect-00ffcc?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🌐 CONNECT
+<!-- ================== CONNECT ================== -->
+
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehulguptaji/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ffcc?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://mehul-gupta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-00ffcc?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ---
 
-## 🌗 THEME SUPPORT
-
 <p align="center">
-  🌙 Dark Mode Optimized | ☀️ Light Mode Compatible  
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Purpose.;Stay+Ahead+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Impact.;Stay+Different+🚀"/>
 </p>
 ```
