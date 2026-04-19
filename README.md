@@ -1,201 +1,127 @@
-<!-- ================== ANIMATED GRADIENT HEADER ================== -->
+# Mehul Gupta
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:2c5364,100:00ffcc&height=260&section=header&text=MEHUL%20GUPTA&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:2c5364,100:00ffcc&height=260&section=header&text=MEHUL%20GUPTA&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Mehul Gupta header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Products;Turning+Ideas+Into+Reality+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Products;Turning+Ideas+Into+Reality" alt="Typing intro" />
 </p>
 
----
-
-<!-- ================== GLASS DASHBOARD ================== -->
-
-<h2 align="center">🧠 Developer Dashboard</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Clients-500%2B-00ffcc?style=for-the-badge"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ================== GLASS ABOUT ================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
-💻 Full Stack Developer (MERN) with 2+ years experience <br/>
-🚀 I build scalable, high-performance web applications <br/>
-🧠 Focused on clean code, performance & real-world impact <br/>
-🤝 Open for freelance, collaboration & startup ideas
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge" alt="Experience badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge" alt="Projects badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=for-the-badge" alt="Status badge" />
 </p>
 
 ---
 
-<!-- ================== TECH GRID ================== -->
-
-<h2 align="center">⚔️ Tech Universe</h2>
+## About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,typescript,js,html,css,tailwind,bootstrap,firebase,git,github,postman,vscode" />
+  Full Stack Developer focused on building scalable, high-performance web applications.<br/>
+  I enjoy turning product ideas into clean, production-ready MERN solutions.<br/>
+  Open to freelance work, collaboration, and startup opportunities.
 </p>
 
 ---
 
-<!-- ================== FEATURED PROJECTS ================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/MehulGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,typescript,javascript,html,css,tailwind,bootstrap,firebase,git,github,postman,vscode" alt="Tech stack icons" />
+</p>
+
+---
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MehulGS/TMP_PracticalTest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight" alt="TMP Practical Test" />
   </a>
-  <a href="https://github.com/MehulGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight"/>
+  <a href="https://github.com/MehulGS/netflix-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight" alt="Netflix Clone" />
   </a>
 </p>
 
 ---
 
-<!-- ================== STATS ================== -->
-
-<h2 align="center">📊 Analytics</h2>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehulGS&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-<!-- ================== SNAKE ================== -->
-
-<h2 align="center">🐍 Contribution Flow</h2>
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
 
-<!-- ================== HIRE ME ================== -->
-
-<h2 align="center">💼 Hire Me</h2>
-
-<p align="center">
-🚀 Looking for a developer who delivers real results? <br/>
-Let’s build something powerful together.
-</p>
-
-<p align="center">
-  <a href="mailto:mehulguptap18@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Connect-00ffcc?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-````md id="ai-chat-illusion"
----
-
-## 🤖 JARVIS AI Assistant
+## JARVIS AI Assistant
 
 ```bash
 > initializing AI assistant...
 > loading context...
-> ready ✅
-````
+> ready
+```
 
----
+**User:** Who are you?  
+**JARVIS:** I am Mehul's AI assistant. He is a Full Stack Engineer specializing in scalable MERN applications.
 
-💬 **User:** Who are you?
+**User:** What can Mehul build?  
+**JARVIS:** Full-stack web applications, real-time systems, admin dashboards, e-commerce platforms, and scalable REST APIs.
 
-🤖 **JARVIS:**
-I am Mehul's AI assistant.
-He is a Full Stack Engineer with 2+ years of experience
-specializing in scalable MERN applications.
+**User:** Why should we hire Mehul?  
+**JARVIS:** Because he builds production-ready systems with performance, scalability, and real business impact in mind.
 
----
+**User:** Current status?  
+**JARVIS:** Available for freelance work, collaborations, and exciting product builds.
 
-💬 **User:** What can Mehul build?
-
-🤖 **JARVIS:**
-✔ Full-stack web applications
-✔ Real-time systems (Socket.IO)
-✔ Admin dashboards & portals
-✔ E-commerce platforms
-✔ Scalable REST APIs
-
----
-
-💬 **User:** Why should we hire Mehul?
-
-🤖 **JARVIS:**
-Because he doesn’t just write code.
-He builds **production-ready systems** with performance,
-scalability, and real business impact in mind.
-
----
-
-💬 **User:** Current status?
-
-🤖 **JARVIS:**
-🟢 Available for freelance & collaborations
-🚀 Actively building and shipping projects
-
----
-
-💬 **User:** How to contact?
-
-🤖 **JARVIS:**
-📧 Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)
-🌐 Portfolio: https://mehul-gupta.vercel.app
-💼 LinkedIn: https://www.linkedin.com/in/mehulguptaji/
-
----
+**User:** How to contact?  
+**JARVIS:**  
+Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)  
+Portfolio: [mehul-gupta.vercel.app](https://mehul-gupta.vercel.app)  
+LinkedIn: [mehulguptaji](https://www.linkedin.com/in/mehulguptaji/)
 
 ```javascript
-// AI Verdict
-const decision = "HIRE_MEHUL 🚀";
+const verdict = "HIRE_MEHUL";
 ```
 
-```
-```
+---
 
+## Hire Me
 
-<!-- ================== CONNECT ================== -->
+<p align="center">
+  Looking for a developer who can build reliable, scalable products with clean execution?<br/>
+  Let us build something impactful together.
+</p>
 
-<h2 align="center">🌐 Connect</h2>
+<p align="center">
+  <a href="mailto:mehulguptap18@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Let%27s%20Connect-00ffcc?style=for-the-badge&logo=gmail" alt="Hire me badge" />
+  </a>
+</p>
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehulguptaji/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
   </a>
   <a href="https://mehul-gupta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel" alt="Portfolio badge" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Impact.;Stay+Different+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Impact.;Stay+Different" alt="Closing line" />
 </p>
-```
