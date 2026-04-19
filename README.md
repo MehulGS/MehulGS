@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Currently working at **AUM Industries**<br>- 👯 Open to collaborating on **MERN Stack projects, SaaS products, and scalable web apps**<br>- 🤝 Looking for help with **advanced system design & scaling production applications**<br>- 🌱 Currently learning **DevOps, Cloud (AWS), and system architecture**<br>- 💬 Ask me about **React, Node.js, MongoDB, REST APIs, and real-world project building**<br>- ⚡ Fun fact: **I turn ideas into fully working products faster than expected 🚀**
+🔭 Currently working at **AUM Industries**<br>👯 Open to collaborating on **MERN Stack projects, SaaS products, and scalable web apps**<br>🤝 Looking for help with **advanced system design & scaling production applications**<br>🌱 Currently learning **DevOps, Cloud (AWS), and system architecture**<br>💬 Ask me about **React, Node.js, MongoDB, REST APIs, and real-world project building**<br>⚡ Fun fact: **I turn ideas into fully working products faster than expected 🚀**
 
 
 ## 🌐 Socials:
