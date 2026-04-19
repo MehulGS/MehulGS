@@ -112,6 +112,74 @@ Let’s build something powerful together.
 
 ---
 
+````md id="ai-chat-illusion"
+---
+
+## 🤖 JARVIS AI Assistant
+
+```bash
+> initializing AI assistant...
+> loading context...
+> ready ✅
+````
+
+---
+
+💬 **User:** Who are you?
+
+🤖 **JARVIS:**
+I am Mehul's AI assistant.
+He is a Full Stack Engineer with 2+ years of experience
+specializing in scalable MERN applications.
+
+---
+
+💬 **User:** What can Mehul build?
+
+🤖 **JARVIS:**
+✔ Full-stack web applications
+✔ Real-time systems (Socket.IO)
+✔ Admin dashboards & portals
+✔ E-commerce platforms
+✔ Scalable REST APIs
+
+---
+
+💬 **User:** Why should we hire Mehul?
+
+🤖 **JARVIS:**
+Because he doesn’t just write code.
+He builds **production-ready systems** with performance,
+scalability, and real business impact in mind.
+
+---
+
+💬 **User:** Current status?
+
+🤖 **JARVIS:**
+🟢 Available for freelance & collaborations
+🚀 Actively building and shipping projects
+
+---
+
+💬 **User:** How to contact?
+
+🤖 **JARVIS:**
+📧 Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)
+🌐 Portfolio: https://mehul-gupta.vercel.app
+💼 LinkedIn: https://www.linkedin.com/in/mehulguptaji/
+
+---
+
+```javascript
+// AI Verdict
+const decision = "HIRE_MEHUL 🚀";
+```
+
+```
+```
+
+
 <!-- ================== CONNECT ================== -->
 
 <h2 align="center">🌐 Connect</h2>
