@@ -41,19 +41,6 @@ Focused on performance, usability, and real-world impact.
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MehulGS/TMP_PracticalTest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MehulGS/netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Overview
 
 <p align="center">
