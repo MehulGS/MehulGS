@@ -1,148 +1,64 @@
 ````md
-<!-- ================== MATRIX HEADER ================== -->
+<!-- ================== JARVIS HEADER ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ffcc&height=220&section=header&text=MEHUL%20GUPTA&fontSize=45&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ffcc&height=250&section=header&text=JARVIS%20MODE%20:%20MEHUL&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Access+Granted+🔓;Full+Stack+Engineer+Detected;Building+Scalable+Systems;MERN+%2B+Beyond+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&color=00FFCC&center=true&vCenter=true&width=700&lines=Initializing+JARVIS...;Developer+Profile+Loaded;Full+Stack+Engineer+Detected;Deploying+Scalable+Systems;Welcome+to+My+Universe+🚀"/>
 </p>
 
 ---
 
-## 🖥️ TERMINAL
+## 🧠 JARVIS DASHBOARD
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clients-500%2B-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-10%2B-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ SYSTEM STATUS
 
 ```bash
-> initializing profile...
-
-user: Mehul Gupta
-role: Full Stack Engineer
-experience: 2+ years
-location: India
-
-status: building production-grade applications 🚀
+> user: Mehul Gupta
+> role: Full Stack Engineer
+> mode: JARVIS ACTIVE
+> focus: Scalable Applications
+> uptime: Consistent 🚀
 ````
 
 ---
 
+## 🎯 FEATURED PROJECTS
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+
+<a href="https://github.com/MehulGS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=TMP_PracticalTest&theme=vision-friendly-dark"/>
+</a>
+
+<a href="https://github.com/MehulGS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehulGS&repo=netflix-clone&theme=vision-friendly-dark"/>
+</a>
+
 </p>
 
 ---
 
-## 🧠 CORE SYSTEM
+## ⚔️ TECH UNIVERSE
 
-```diff
-+ Problem Solver First
-+ System Thinker Always
-+ Performance Obsessed
-
-- Just writing code ❌
-+ Building scalable systems ✅
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,typescript,js,html,css,tailwind,bootstrap,firebase,git,github,postman,vscode" />
+</p>
 
 ---
 
-## ⚔️ TECH ARSENAL
-
-```yaml
-frontend:
-  - React.js
-  - Redux Toolkit
-  - JavaScript (ES6+)
-  - TypeScript
-  - Tailwind CSS
-  - Bootstrap
-  - Material UI
-
-backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-  - JWT Authentication
-
-database:
-  - MongoDB (Aggregation / Indexing)
-  - Firebase (Realtime + Auth)
-
-tools:
-  - Git / GitHub
-  - Postman
-  - VS Code
-  - Vercel / Netlify / Render
-
-extras:
-  - Socket.IO
-  - Axios
-  - API Optimization
-```
-
----
-
-## ⚡ POWER LEVEL
-
-```
-Frontend        ████████████████░░ 90%
-Backend         ███████████████░░░ 85%
-Debugging       ██████████████████ 95%
-System Design   ████████████░░░░░░ 70%
-Consistency     █████████████████░ 92%
-```
-
----
-
-## 🏗️ BUILD ENGINE
-
-```
-[ IDEA ]
-   ↓
-[ BREAKDOWN ]
-   ↓
-[ ARCHITECTURE ]
-   ↓
-[ DEVELOPMENT ]
-   ↓
-[ DEBUGGING 🔥 ]
-   ↓
-[ OPTIMIZATION ⚡ ]
-   ↓
-[ DEPLOYMENT 🚀 ]
-```
-
----
-
-## 🧬 LIVE OBJECT
-
-```javascript
-const Mehul = {
-  title: "Full Stack Developer",
-  experience: "2+ Years",
-  stack: ["MERN", "Redux", "TypeScript", "Firebase"],
-  mindset: "Think → Build → Optimize → Scale",
-  currentFocus: ["Performance", "Clean Code", "Real-world Apps"],
-  availability: "Open for freelance & collaborations",
-};
-
-export default Mehul;
-```
-
----
-
-## 🧾 REAL-WORLD IMPACT
-
-```
-✔ 500+ clients served across platforms  
-✔ Built scalable business applications  
-✔ Developed real-time systems  
-✔ Production-ready MERN applications  
-✔ Freelance + company experience  
-```
-
----
-
-## 📊 SYSTEM ANALYTICS
+## 📊 LIVE ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehulGS&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
@@ -151,7 +67,7 @@ export default Mehul;
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 SYSTEM ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -159,7 +75,26 @@ export default Mehul;
 
 ---
 
-## 🔗 CONNECT
+## 💼 HIRE ME
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Fulltime-00ffcc?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  💡 Need a developer who can build real-world scalable apps?  
+  🚀 Let’s turn your idea into a product.
+</p>
+
+<p align="center">
+  <a href="mailto:mehulguptap18@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-00ffcc?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🌐 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehulguptaji/">
@@ -168,14 +103,19 @@ export default Mehul;
   <a href="https://mehul-gupta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-00ffcc?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="mailto:mehulguptap18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-00ffcc?style=for-the-badge&logo=gmail"/>
-  </a>
+</p>
+
+---
+
+## 🌗 THEME SUPPORT
+
+<p align="center">
+  🌙 Dark Mode Optimized | ☀️ Light Mode Compatible  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.;Build+Systems+That+Scale.;Stay+Consistent+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Think.+Build.+Scale.;Code+with+Purpose.;Stay+Ahead+🚀"/>
 </p>
 ```
