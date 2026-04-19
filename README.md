@@ -32,34 +32,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&color=00FFCC&center=true&vCenter=true&width=650&lines=Booting+JARVIS+AI...;Analyzing+Developer+Profile...;System+Linked+Successfully" />
 </p>
 
-<div align="center">
-
 ╔══════════════════════════════════════════════════════════════╗
 ║ 🤖 JARVIS TERMINAL                                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ > Initializing Mehul Gupta Profile...                       ║
 ║ ✔ Identity Verified                                         ║
-║ ✔ Role: Full Stack Engineer                                ║
-║ ✔ Stack: MERN + Scalable Systems                           ║
-║ ✔ Experience: 2+ Years                                     ║
+║ ✔ Role: Full Stack Engineer                                 ║
+║ ✔ Stack: MERN + Scalable Systems                            ║
+║ ✔ Experience: 2+ Years                                      ║
 ║                                                            ║
-║ > Running Capability Scan...                               ║
-║ ✔ Frontend Systems [██████████] 100%                       ║
-║ ✔ Backend Architecture [█████████░] 95%                    ║
-║ ✔ Database Engineering [█████████░] 92%                    ║
-║ ✔ DevOps & Deployment [████████░░] 85%                     ║
+║ > Running Capability Scan...                                ║
+║ ✔ Frontend Systems        [██████████] 100%                 ║
+║ ✔ Backend Architecture    [█████████░] 95%                  ║
+║ ✔ Database Engineering    [█████████░] 92%                  ║
+║ ✔ DevOps & Deployment     [████████░░] 85%                  ║
 ║                                                            ║
-║ > AI Recommendation Engine:                                ║
-║ → Suitable for: Startups / SaaS / Scale Products           ║
-║ → Strength: Clean Code + Fast Execution                    ║
+║ > AI Recommendation Engine:                                 ║
+║ → Suitable for: Startups / SaaS / Scale Products            ║
+║ → Strength: Clean Code + Fast Execution                     ║
 ║                                                            ║
-║ > Status: 🟢 AVAILABLE FOR HIRE                            ║
+║ > Status: 🟢 AVAILABLE FOR HIRE                             ║
 ║                                                            ║
-║ > Command: hire(mehul)                                    ║
+║ > Command: hire(mehul)                                      ║
 ╚══════════════════════════════════════════════════════════════╝
-
-</div>
-
 ---
 
 ## 🧠 AI INSIGHT
