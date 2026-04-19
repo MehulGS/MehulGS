@@ -66,11 +66,11 @@
 
 ## JARVIS AI Assistant
 
-```bash
+
 > initializing AI assistant...
 > loading context...
 > ready
-```
+
 
 **User:** Who are you?  
 **JARVIS:** I am Mehul's AI assistant. He is a Full Stack Engineer specializing in scalable MERN applications.
@@ -90,9 +90,7 @@ Email: [mehulguptap18@gmail.com](mailto:mehulguptap18@gmail.com)
 Portfolio: [mehul-gupta.vercel.app](https://mehul-gupta.vercel.app)  
 LinkedIn: [mehulguptaji](https://www.linkedin.com/in/mehulguptaji/)
 
-```javascript
 const verdict = "HIRE_MEHUL";
-```
 
 ---
 
