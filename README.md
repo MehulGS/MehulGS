@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ffcc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Projects-30%2B-00ffcc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Work-00ffcc?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-749FD6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Projects-30%2B-749FD6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-749FD6?style=flat-square"/>
 </p>
 
 
