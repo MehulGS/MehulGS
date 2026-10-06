@@ -1,9 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00ffcc&height=220&section=header&text=MEHUL%20GUPTA&fontSize=48&fontColor=ffffff&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:f5f7fa,100:d9fff7&height=220&section=header&text=MEHUL%20GUPTA&fontSize=48&fontColor=0f2027&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00ffcc&height=220&section=header&text=MEHUL%20GUPTA&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-  </picture>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00bfa6,100:00ffcc&height=220&section=header&text=MEHUL%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
